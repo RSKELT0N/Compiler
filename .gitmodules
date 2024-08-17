@@ -1,0 +1,6 @@
+[submodule "compiler/external/fmt"]
+	path = compiler/external/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "compiler/external/googletest"]
+	path = compiler/external/googletest
+	url = https://github.com/google/googletest.git
